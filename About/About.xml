@@ -1,0 +1,12 @@
+
+<ModMetaData>
+	<name>Craftable Glitter Tech Weapons and Apparels Continued</name>
+	<supportedVersions><li>1.1</li><li>1.0</li><li>1.2</li></supportedVersions>
+	<author>3tes</author>
+	<packageId>3tes.CGTWaA</packageId>
+	<description>Adds new weapon and apparel recipes to Robotic Assembler.</description>
+	<loadAfter>
+		<li>GT.Sam.GlitterTech</li>
+		<li>GT.Sam.GlitterTechNS</li>
+	</loadAfter>
+</ModMetaData>
