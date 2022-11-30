@@ -149,7 +149,7 @@
 		  <li>
 			<filter>
 			  <thingDefs>
-				<li>Titanium</li>
+				<li>Titanium_GT</li>
 			  </thingDefs>
 			</filter>
 			<count>150</count>
@@ -177,7 +177,7 @@
 		<fixedIngredientFilter>
 		  <thingDefs>
 			<li>AlphaPoly</li>
-			<li>Titanium</li>
+			<li>Titanium_GT</li>
 			<li>Silicon</li>
 			<li>ComputerComp</li>
 		  </thingDefs>
@@ -213,7 +213,7 @@
 		  <li>
 			<filter>
 			  <thingDefs>
-				<li>Titanium</li>
+				<li>Titanium_GT</li>
 			  </thingDefs>
 			</filter>
 			<count>50</count>
@@ -241,7 +241,7 @@
 		<fixedIngredientFilter>
 		  <thingDefs>
 			<li>AlphaPoly</li>
-			<li>Titanium</li>
+			<li>Titanium_GT</li>
 			<li>Silicon</li>
 			<li>ComputerComp</li>
 		  </thingDefs>
@@ -277,7 +277,7 @@
 		  <li>
 			<filter>
 			  <thingDefs>
-				<li>Titanium</li>
+				<li>Titanium_GT</li>
 			  </thingDefs>
 			</filter>
 			<count>100</count>
@@ -297,7 +297,7 @@
 		<fixedIngredientFilter>
 		  <thingDefs>
 			<li>AlphaPoly</li>
-			<li>Titanium</li>
+			<li>Titanium_GT</li>
 			<li>ComponentIndustrial</li>
 		  </thingDefs>
 		</fixedIngredientFilter>
